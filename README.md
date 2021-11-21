@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm fine. Thank you, and you?
+## I'm fine. Thank you, and you?
 
 <!--
 **franklegolasyoung/franklegolasyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
