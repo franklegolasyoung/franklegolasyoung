@@ -1,9 +1,9 @@
-## Hi.
-I'm fine. Thank you, and you?
+<!-- ## Hi.
+I'm fine. Thank you, and you? -->
 
 
 ![Banner](coding_wallpaper.jpg)
-<h1 align="center">Hi there 👋, I'm franky</h1>
+<h1 align="center">Hi there, I'm franky</h1>
 <h3 align="center">An aspiring computer scientist</h3>
 
 <br>
@@ -27,7 +27,7 @@ I'm fine. Thank you, and you?
 
 - 🔭 I’m currently in Master of Science Artificial Intelligence in Nanyang Technological University.
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning GPT algorithm.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
