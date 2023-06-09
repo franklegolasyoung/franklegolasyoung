@@ -4,7 +4,7 @@ I'm fine. Thank you, and you? -->
 
 ![Banner](coding_wallpaper.jpg)
 <h1 align="center">Hi there, I'm franky</h1>
-<h3 align="center">An aspiring computer scientist</h3>
+<h3 align="center">An aspiring Computer Scientist</h3>
 
 <br>
 
