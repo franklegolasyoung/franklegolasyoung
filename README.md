@@ -25,9 +25,9 @@ I'm fine. Thank you, and you? -->
 
 ---
 
-- 🔭 I’m currently studying in Master of Science Artificial Intelligence in Nanyang Technological University.
+- 🔭 I’m currently studying for Master of Science in Artificial Intelligence at Nanyang Technological University.
 
-- 🌱 I’m currently learning GPT algorithm.
+- 🌱 I’m currently learning LLM.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
