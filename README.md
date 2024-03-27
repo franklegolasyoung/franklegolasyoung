@@ -4,7 +4,7 @@ I'm fine. Thank you, and you? -->
 
 ![Banner](coding_wallpaper.jpg)
 <h1 align="center">Hi there, I'm franky</h1>
-<h3 align="center">An aspiring Cyber Security Research Engineer</h3>
+<h3 align="center">An aspiring Computer Scientist</h3>
 
 <br>
 
@@ -25,13 +25,13 @@ I'm fine. Thank you, and you? -->
 
 ---
 
-- 🔭 I’m currently studying for Master of Science in Artificial Intelligence at Nanyang Technological University.
+- 🔭 I’m currently working as a Cyber Security Research Engineer in ST Engineering in Singapore.
 
 - 🌱 I’m currently learning LLM.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: **frank104532@outlook.com**
+- 📫 How to reach me: **frankyoung@outlook.sg**
 
 - 😄 Pronouns: He/him
 
