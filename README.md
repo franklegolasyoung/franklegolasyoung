@@ -11,8 +11,8 @@ I'm fine. Thank you, and you? -->
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=franklegolasyoung&theme=tokyonight&show_icons=true" alt="Streak Stats" width="60%"> -->
 <!-- <br><br> -->
-<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=tokyonight" alt="franky's Github Stats">
-<img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" alt="Most Used Languages">
+<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=tokyonight" alt="franky's Github Stats" width="59.5%">
+<img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" alt="Most Used Languages" width="32.5%">
 <br><br>
 </p>
 
