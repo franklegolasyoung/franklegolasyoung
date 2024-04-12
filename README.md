@@ -25,7 +25,7 @@ I'm fine. Thank you, and you? -->
 
 ---
 
-- 🔭 I’m currently working as a Cyber Security Research Engineer in ST Engineering in Singapore.
+- 🔭 I’m currently working as a Cyber Security Research Engineer in Singapore.
 
 - 🌱 I’m currently learning LLM.
 <!-- - 👯 I’m looking to collaborate on ...
