@@ -2,17 +2,17 @@
 I'm fine. Thank you, and you? -->
 
 
-![Banner](coding_wallpaper.jpg)
+![Banner](wallpaper.png)
 <h1 align="center">Hi there, I'm franky</h1>
-<h3 align="center">An aspiring Researcher</h3>
+<h3 align="center">An aspiring Software Full-Stack Developer & LLM Researcher</h3>
 
 <br>
 
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=franklegolasyoung&theme=tokyonight&show_icons=true" alt="Streak Stats" width="60%"> -->
 <!-- <br><br> -->
-<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=prussian" alt="franky's Github Stats" width="59.5%">
-<img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=prussian&layout=compact&langs_count=8" alt="Most Used Languages" width="39.3%">
+<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=material-palenight" alt="franky's Github Stats" width="59.5%">
+<img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=material-palenight&layout=compact&langs_count=8" alt="Most Used Languages" width="39.3%">
 <br><br>
 </p>
 
