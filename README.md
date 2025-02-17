@@ -6,8 +6,11 @@ I'm fine. Thank you, and you? -->
 <h1 align="center">Hi there, I'm franky</h1>
 <h3 align="center">An aspiring Software Full-Stack Developer & LLM Researcher</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franklegolasyoung&label=Profile%20views&base=3097&color=blue&style=for-the-badge" alt="franklegolasyoung" /> </p>
-<br>
 
+---
+<br>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl" alt="GitHub Streak" /></a>
 
 
 <p align="center">
