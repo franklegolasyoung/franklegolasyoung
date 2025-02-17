@@ -10,14 +10,14 @@ I'm fine. Thank you, and you? -->
 ---
 <br>
 
-<!-- <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl" alt="GitHub Streak" /></a> -->
+<p align="center">
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl" alt="GitHub Streak" /></a> --> -->
 <!-- <img src="wallpaper2.png" alt="Banner"> -->
 <!-- 
 <p align="center"> -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=franklegolasyoung&theme=tokyonight&show_icons=true" alt="Streak Stats" width="60%"> -->
 <!-- <br><br> -->
-<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=material-palenight" alt="franky's Github Stats" width="59.5%">
+<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=material-palenight" alt="franky's Github Stats" width="59.4%">
 <img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=material-palenight&layout=compact&langs_count=8" alt="Most Used Languages" width="39.3%">
 <br><br>
 </p>
