@@ -11,7 +11,7 @@ I'm fine. Thank you, and you? -->
 <br>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl&show_icons=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl" alt="GitHub Streak" /></a>
 <img src="wallpaper2.png" alt="Banner">
 <!-- 
 <p align="center"> -->
