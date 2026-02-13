@@ -3,7 +3,7 @@ I'm fine. Thank you, and you? -->
 
 
 ![Banner](wallpaper.png)
-<h1 align="center">Hi there, I'm franky</h1>
+<h1 align="center">Hi there, I'm frankyoung</h1>
 <h3 align="center">Software Engineer | AI Agent Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=franklegolasyoung&label=Profile%20views&base=3097&color=blue&style=for-the-badge" alt="franklegolasyoung" />
@@ -11,8 +11,7 @@ I'm fine. Thank you, and you? -->
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
-<br>
-
+<!-- <br> -->
 <p align="center">
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl" alt="GitHub Streak" /></a> -->
 <!-- <img src="wallpaper2.png" alt="Banner"> -->
