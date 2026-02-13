@@ -4,7 +4,7 @@ I'm fine. Thank you, and you? -->
 
 ![Banner](wallpaper.png)
 <h1 align="center">Hi there, I'm franky</h1>
-<h3 align="center">An aspiring Software Full-Stack Developer & LLM Researcher</h3>
+<h3 align="center">An aspiring Full-stack Software Developer & LLM \& Agent Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franklegolasyoung&label=Profile%20views&base=3097&color=blue&style=for-the-badge" alt="franklegolasyoung" /> </p>
 
 ---
