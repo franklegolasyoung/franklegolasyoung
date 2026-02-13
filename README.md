@@ -1,7 +1,6 @@
 <!-- ## Hi.
 I'm fine. Thank you, and you? -->
 
-
 ![Banner](wallpaper.png)
 <h1 align="center">Hi there, I'm frankyoung</h1>
 <h3 align="center">Software Engineer | AI Agent Developer</h3>
@@ -11,17 +10,10 @@ I'm fine. Thank you, and you? -->
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
-<!-- <br> -->
 <p align="center">
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=franklegolasyoung&theme=nightowl" alt="GitHub Streak" /></a> -->
-<!-- <img src="wallpaper2.png" alt="Banner"> -->
-<!-- 
-<p align="center"> -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=franklegolasyoung&theme=tokyonight&show_icons=true" alt="Streak Stats" width="60%"> -->
-<!-- <br><br> -->
 <img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=material-palenight" alt="franky's Github Stats" width="59.5%">
 <img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=material-palenight&layout=compact&langs_count=8" alt="Most Used Languages" width="39.3%">
-<br><br>
+<br>
 </p>
 
 <!-- <p><h3 align="center">Best repositories</h3></p>
