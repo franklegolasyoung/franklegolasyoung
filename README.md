@@ -6,7 +6,9 @@ I'm fine. Thank you, and you? -->
 <h1 align="center">Hi there, I'm franky</h1>
 <h3 align="center">An aspiring Full-stack Software Developer & Agent Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franklegolasyoung&label=Profile%20views&base=3097&color=blue&style=for-the-badge" alt="franklegolasyoung" /> </p>
-
+<a href="https://franklegolasyoung.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 ---
 <br>
 
