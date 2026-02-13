@@ -4,7 +4,7 @@ I'm fine. Thank you, and you? -->
 
 ![Banner](wallpaper.png)
 <h1 align="center">Hi there, I'm franky</h1>
-<h3 align="center">An aspiring Full-stack Software Developer & Agent Developer</h3>
+<h3 align="center">Software Engineer | AI Agent Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=franklegolasyoung&label=Profile%20views&base=3097&color=blue&style=for-the-badge" alt="franklegolasyoung" />
   <a href="https://franklegolasyoung.github.io" target="_blank">
@@ -35,9 +35,9 @@ I'm fine. Thank you, and you? -->
 ---
 
 - 🔭 I’m currently working as an AI Security Engineer in Singapore.
+
 - 🌱 I’m currently focusing on LLM Security and Agents Development matters.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
+
 - 💬 I completed Master of Science in Artificial Intelligence (MSAI) at Nanyang Technological University.
 
 - 📫 How to reach me: **frankyoung@outlook.sg**
