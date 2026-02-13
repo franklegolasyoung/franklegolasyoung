@@ -46,16 +46,6 @@ I'm fine. Thank you, and you? -->
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/franklegolasyoung/franklegolasyoung/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
----
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
