@@ -31,9 +31,8 @@ I'm fine. Thank you, and you? -->
 
 ---
 
-- 🔭 I’m currently working as a Cyber Security Research Engineer in Singapore.
-
-- 🌱 I’m currently learning LLM Security and Safety matters.
+- 🔭 I’m currently working as an AI Security Engineer in Singapore.
+- 🌱 I’m currently focusing on LLM Security and Agents Development matters.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 I completed Master of Science in Artificial Intelligence (MSAI) at Nanyang Technological University.
