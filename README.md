@@ -2,7 +2,7 @@
 I'm fine. Thank you, and you? -->
 
 ![Banner](wallpaper.png)
-<h1 align="center">Hi there, I'm frankyoung</h1>
+<h1 align="center">Hi there, I'm franky</h1>
 <h3 align="center">Software Engineer | AI Agent Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=franklegolasyoung&label=Profile%20views&base=3097&color=blue&style=for-the-badge" alt="franklegolasyoung" />
