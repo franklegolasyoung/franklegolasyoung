@@ -11,8 +11,8 @@ I'm fine. Thank you, and you? -->
   </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats-shash-b.vercel.app/api?username=franklegolasyoung&show_icons=true&count_private=true&theme=material-palenight" alt="franky's Github Stats" width="59.5%">
-<img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=franklegolasyoung&show_icons=true&theme=material-palenight&layout=compact&langs_count=8" alt="Most Used Languages" width="39.3%">
+<img src="https://raw.githubusercontent.com/franklegolasyoung/franklegolasyoung/main/assets/github-stats.svg" alt="franky's Github Stats" width="59.5%">
+<img src="https://raw.githubusercontent.com/franklegolasyoung/franklegolasyoung/main/assets/github-languages.svg" alt="Most Used Languages" width="39.3%">
 <br>
 </p>
 
