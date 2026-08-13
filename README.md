@@ -25,11 +25,11 @@ I'm fine. Thank you, and you? -->
 
 ---
 
-- 🔭 I’m currently working as an AI Security Engineer in Singapore.
+- 🔭 I’m currently working as a Software Engineer in Singapore.
 
-- 🌱 I’m currently focusing on LLM Security and Agents Development matters.
+- 🌱 I’m currently focusing on 2B2C Backend Servicing and AI Agent Development.
 
-- 💬 I completed Master of Science in Artificial Intelligence (MSAI) at Nanyang Technological University.
+- 💬 I completed Master of Science in Artificial Intelligence (MSAI) at Nanyang Technological University Singapore.
 
 - 📫 How to reach me: **frankyoung@outlook.sg**
 
