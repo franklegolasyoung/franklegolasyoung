@@ -27,7 +27,7 @@ I'm fine. Thank you, and you? -->
 
 - 🔭 I’m currently working as a Software Engineer in Singapore.
 
-- 🌱 I’m currently focusing on 2B2C Backend Servicing and AI Agent Development.
+- 🌱 I’m currently focusing on Backend Development and AI Agent Development.
 
 - 💬 I completed Master of Science in Artificial Intelligence (MSAI) at Nanyang Technological University Singapore.
 
